@@ -11,7 +11,7 @@
     10. play song when click
  */
 const songAPI = 'http://localhost:3000/songs';
-const alternativeAPI = '/database/db.json'; // API thay thế
+const alternativeAPI = './database/db.json'; // API thay thế
 
 
 const PLAYER_STORAGE_KEY = "It's you";
